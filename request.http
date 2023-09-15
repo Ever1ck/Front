@@ -1,0 +1,11 @@
+POST http://localhost:8080/registro HTTP/1.1
+
+Content-Type: JSON
+
+{
+    "email" : "ever1ever140@registro.com",
+    "password" : "123456",
+    "nombre" : "Everick",
+    "apellido" : "Mestas",
+    "fechaNacimiento" : "2000-10-24T00:00:00Z"
+}
