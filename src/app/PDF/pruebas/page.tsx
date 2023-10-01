@@ -155,6 +155,7 @@ const PruebaPDF = () => {
                     <View style={{width:"100%", marginHorizontal:"auto"}}>
                         <View style={styles.row}>
                             <View style={{margin:"auto", width:"100%", display:"flex"}}>
+                                <Text style={{ fontSize:"14pt", paddingBottom:"15px"}}></Text>
                                 <Text style={{ fontSize:"12pt", margin:0}}>
                                     El director general del Instituto de Educación Superior (público/privado) 
                                 </Text>
@@ -177,8 +178,7 @@ const PruebaPDF = () => {
                         </View>
                         <View style={styles.row}>
                             <View style={{margin:"auto", width:"100%", display:"flex", fontFamily:"TimesNewRomanItalic"}}>
-                                <Text style={{ fontSize:"14pt", paddingBottom:"8px"}}>
-                                </Text>
+                                <Text style={{ fontSize:"14pt", paddingBottom:"8px"}}></Text>
                                 <Text style={{ fontSize:"12pt", marginLeft:"65.4pt"}}>
                                     POR TANTO:
                                 </Text>
